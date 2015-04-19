@@ -1,4 +1,5 @@
 var cashRegister = {
+
     total: 0,
     
     lastTransactionAmount: 0,
