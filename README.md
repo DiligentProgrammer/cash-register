@@ -33,6 +33,6 @@ var cashRegister = {
     
 };
 
-cashRegister.scan('cookies', 1);
+cashRegister.scan(item, quantity);
 
 console.log("Your total bill is " + cashRegister.total);
