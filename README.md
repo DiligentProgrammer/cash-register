@@ -15,7 +15,7 @@ var cashRegister = {
     
         switch (item) {
         
-        case "grapes": this.add(0.49 * quantity); break;
+        case "oranges": this.add(0.49 * quantity); break;
         
         case "candy": this.add(0.45 * quantity); break;
         
