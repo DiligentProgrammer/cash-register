@@ -19,7 +19,7 @@ var cashRegister = {
         
         case "candy": this.add(0.45 * quantity); break;
         
-        case "peanuts": this.add(0.98 * quantity); break;
+        case "bananas": this.add(0.98 * quantity); break;
         
         case "cookies": this.add(1.00 * quantity); break;
         }
